@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJObFDF75knIMzlIX2Zh7jWZaP1XT+8vrmxIPTpfAD7uC3UuZ0BX54zFoveIHQId9O20v3K8AIBsLPSd8MeoBw==",
+  "success": true,
+  "projectFilePath": "D:\\Lia\\Kerjaan\\.Net\\MVCProject\\MVCProject\\MVCProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIA\\.nuget\\packages\\microsoft.typescript.msbuild\\3.7.6\\microsoft.typescript.msbuild.3.7.6.nupkg.sha512",
+    "C:\\Users\\LIA\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\LIA\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\LIA\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512",
+    "C:\\Users\\LIA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
